@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 15999,
+    "stock": 5,
+    "image": "https://files.refurbed.com/ii/apple-macbook-pro-2018-13-3-touc-1655128640.jpg?t=fitdesign&h=600&w=800&t=convert&f=webp"
+  },
+  {
+    "id": 2,
+    "name": "IPhone",
+    "price": 12499,
+    "stock": 7,
+    "image": "https://www.netonnet.se/GetFile/ProductImagePrimary/mobil-smartwatch/mobiltelefoner/iphone/apple-iphone-15-pro-128gb-black-titanium(1031304)_602731_3_Normal_Large.webp"
+  },
+  {
+    "id": 3,
+    "name": "Headphones",
+    "price": 3199,
+    "stock": 10,
+    "image": "https://m.media-amazon.com/images/I/61PzLRRxRbL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Keyboard",
+    "price": 699,
+    "stock": 10,
+    "image": "https://m.media-amazon.com/images/I/71NMtTQkYUL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Monitor",
+    "price": 2299,
+    "stock": 10,
+    "image": "https://images.samsung.com/is/image/samsung/ie-monitor-sj552-ls34j552wquxen-frontblack-312766479?$650_519_PNG$"
+  }
+]
